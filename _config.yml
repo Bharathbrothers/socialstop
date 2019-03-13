@@ -1,12 +1,12 @@
 # Site settings
-head_title: Paweł U. | Ruby on Rails Web Development, Consultant Full Stack Blog
-email:       contact@pawelurbanek.com
-author:      Paweł Urbanek
-description: Paweł Urbanek - Full Stack web development, consultant, specializing in Ruby on Rails and JavaScript. Experienced in building scalable and performant APIs for startups and refactoring legacy codebases. Blogging about web developer stuff.
+head_title: Stark | Ruby on Rails Web Development, Consultant Full Stack Blog
+email:       sathuribharath@gmail.com
+author:      Bharath Sathuri
+description: Bharath Sathuri - Full Stack web development, consultant, specializing in Ruby on Rails and JavaScript. Experienced in building scalable and performant APIs for startups and refactoring legacy codebases. Blogging about web developer stuff.
 keywords: Ruby on Rails, JavaScript, full stack,
  consultant, web development, remote developer, startup, performance, optimization, blogger, blog, blogging, SEO
-baseurl:     ""
-url:         "https://pawelurbanek.com"
+baseurl:     "socialstop"
+url:         "https://bharathbrothers.github.io"
 date_format: "%b %-d, %Y"
 structured_date_format: '%Y-%m-%d'
 grammarly_link: https://grammarly.com
