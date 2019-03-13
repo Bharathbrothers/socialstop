@@ -5,7 +5,7 @@ author:      Bharath Sathuri
 description: Bharath Sathuri - Full Stack web development, consultant, specializing in Ruby on Rails and JavaScript. Experienced in building scalable and performant APIs for startups and refactoring legacy codebases. Blogging about web developer stuff.
 keywords: Ruby on Rails, JavaScript, full stack,
  consultant, web development, remote developer, startup, performance, optimization, blogger, blog, blogging, SEO
-baseurl:     "socialstop"
+baseurl:     "/socialstop"
 url:         "https://bharathbrothers.github.io"
 date_format: "%b %-d, %Y"
 structured_date_format: '%Y-%m-%d'
